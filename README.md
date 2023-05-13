@@ -1,7 +1,3 @@
-![1_26XR2RfPsSmFd_Q6EA0SrA](https://github.com/YangVince/YangVince/assets/100027859/d9330683-29e8-4fcb-9a63-8e88caf14713)
-
-![1_ew60DG67UbU2lH7yKwZc0Q](https://github.com/YangVince/YangVince/assets/100027859/ea6b5d70-0125-4793-9cda-40e7ee6ba0ea)
-
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
@@ -10,6 +6,9 @@
   </div>
 
   <!-- knock code pictures 敲代码的图片 -->
+  
+  ![coding](https://github.com/YangVince/YangVince/assets/100027859/6b85a86f-d513-47f1-9afc-60c7eda68a3a)
+
 ### Hi there 👋
 
 
