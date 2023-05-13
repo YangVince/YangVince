@@ -1,3 +1,5 @@
+![R (2)](https://github.com/YangVince/YangVince/assets/100027859/028838eb-15eb-4eb4-b6f9-3a1e295254fa)
+
 ### Hi there 👋
 
 
