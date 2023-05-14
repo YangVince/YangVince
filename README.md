@@ -1,7 +1,7 @@
 # 💫 About Me:
-<!-- 🔭 I’m currently working on <br> -->
+<!-- 🔭 I’m currently working on -->
 🌱 I’m currently learning Wechat Mini Program
-<!-- 🤝 I’m looking for help with <br> -->
+<!-- 🤝 I’m looking for help with -->
 👯 I’m looking to collaborate on YangVince<br>
 💬 Ask me about YangVince<br>
 👨‍💻 All of my projects are available at YangVince<br>
