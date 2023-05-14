@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### 项目
-[![yangvince](https://img.shields.io/badge/pythondict-quant-192133?style=flat-square)](https://github.com/yangvince/yangvince)
+[![yangvince](https://img.shields.io/badge/yangvince-192133?style=flat-square)](https://github.com/yangvince/yangvince)
 [![scihub-cn](https://img.shields.io/badge/scihub-cn-192133?style=flat-square)](https://github.com/Ckend/scihub-cn)
 
 # 💻 Tech Stack:
