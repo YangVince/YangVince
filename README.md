@@ -5,7 +5,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yangvince&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yangvince&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yangvince&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yangvince&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangvince">
 
