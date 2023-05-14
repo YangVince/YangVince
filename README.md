@@ -1,10 +1,10 @@
 # 💫 About Me:
-<!-- 🔭 I’m currently working on <br> -->
-<!-- 🤝 I’m looking for help with <br> -->
+<!-- 🔭 I’m currently working on <br>
+🤝 I’m looking for help with <br>
+👯 I’m looking to collaborate on <br>
+💬 Ask me about <br> -->
 🌱 I’m currently learning Wechat Mini Program<br>
-<!-- 👯 I’m looking to collaborate on <br> -->
-💬 Ask me about YangVince<br>
-👨‍💻 All of my projects are available at YangVince<br>
+👨‍💻 All of my projects are available at [YangVince](https://github.com/YangVince?tab=repositories)<br>
 📝 I regularly write articles on YangVince<br>
 📄 Know about my experiences YangVince<br>
 📫 How to reach me YangVince<br>
