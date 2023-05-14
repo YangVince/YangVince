@@ -1,6 +1,6 @@
 # 💫 About Me:
 <!-- 🔭 I’m currently working on <br> -->
-🌱 I’m currently learning weapp<br>
+🌱 I’m currently learning Wechat Mini Program<br>
 🤝 I’m looking for help with YangVince<br>
 👯 I’m looking to collaborate on YangVince<br>
 💬 Ask me about YangVince<br>
