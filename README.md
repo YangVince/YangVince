@@ -7,7 +7,7 @@
 📫 How to reach me <br>
 ⚡ Fun fact  -->
 🌱 I’m currently learning Wechat Mini Program<br>
-👨‍💻 All of my projects are available at [YangVince](https://github.com/YangVince?tab=repositories)<br>
+👨‍💻 All of my projects are available at [repositories](https://github.com/YangVince?tab=repositories)<br>
 📄 Know about my experiences [YangVince](https://github.com/YangVince?tab=repositories)<br>
 
 ## 🌐 Socials:
