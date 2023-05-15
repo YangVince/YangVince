@@ -7,11 +7,10 @@
 📄 Know about my experiences <br>
 📫 How to reach me <br>
 ⚡ Fun fact <br>
- 
+🌱 I’m currently learning Wechat Mini Program<br>
 -->
 # 💫 关于我：
-🌱 I’m currently learning Wechat Mini Program<br>
-🌱我正在学习微信小程序
+🌱我正在学习微信小程序<br>
 👨‍💻 All of my projects are available at [repositories](https://github.com/YangVince?tab=repositories)<br>
 
 <!-- ## 🌐 Socials:
