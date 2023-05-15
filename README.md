@@ -10,7 +10,7 @@
 🌱 I’m currently learning Wechat Mini Program<br>
 👨‍💻 All of my projects are available at [repositories](https://github.com/YangVince?tab=repositories)<br>
 -->
-# 💫 关于我：
+# 💫 关于我:
 🌱我正在学习微信小程序<br>
 👨‍💻我的所有项目都可以在[存储库](https://github.com/YangVince?tab=repositories)中找到<br>
 
@@ -32,7 +32,7 @@
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/) -->
 
 # 💻 Tech Stack:
-# 💻 技术 栈：
+# 💻 技术栈:
 <!-- ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
