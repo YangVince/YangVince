@@ -12,7 +12,7 @@
 -->
 # 💫 关于我：
 🌱我正在学习微信小程序<br>
-👨‍💻我的所有项目都可以在[repositories](https://github.com/YangVince?tab=repositories)中找到<br>
+👨‍💻我的所有项目都可以在[Repositories](https://github.com/YangVince?tab=repositories)中找到<br>
 
 <!-- ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/)
