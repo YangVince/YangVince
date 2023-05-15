@@ -1,5 +1,5 @@
-# 💫 About Me:
-<!-- 🔭 I’m currently working on <br>
+<!-- # 💫 About Me:
+🔭 I’m currently working on <br>
 🤝 I’m looking for help with <br>
 👯 I’m looking to collaborate on <br>
 💬 Ask me about <br>
@@ -9,7 +9,7 @@
 ⚡ Fun fact <br>
  
 -->
-# 💫 关于我:
+# 💫 关于我：
 🌱 I’m currently learning Wechat Mini Program<br>
 🌱我正在学习微信小程序
 👨‍💻 All of my projects are available at [repositories](https://github.com/YangVince?tab=repositories)<br>
