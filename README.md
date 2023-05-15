@@ -244,13 +244,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YangVince&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YangVince&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies -->
+## 🏆 GitHub 奖杯
 ![](https://github-profile-trophy.vercel.app/?username=YangVince&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=)](https://github.com/VishwaGauravIn/github-twitter-card-embed) -->
 
-### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote -->
+### ✍️ 随机开发报价
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- ### 🔝 Top Contributed Repo
