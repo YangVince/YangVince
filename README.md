@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫关于我：
+# 💫关于我：
 <!-- 🔭 I’m currently working on <br>
 🤝 I’m looking for help with <br>
 👯 I’m looking to collaborate on <br>
