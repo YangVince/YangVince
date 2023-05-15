@@ -8,12 +8,11 @@
 📫 How to reach me <br>
 ⚡ Fun fact <br>
 🌱 I’m currently learning Wechat Mini Program<br>
-
+👨‍💻 All of my projects are available at [repositories](https://github.com/YangVince?tab=repositories)<br>
 -->
 # 💫 关于我：
 🌱我正在学习微信小程序<br>
-👨‍💻 All of my projects are available at [repositories](https://github.com/YangVince?tab=repositories)<br>
-👨‍💻我的所有项目都可以在[存储库](https://github.com/YangVince?tab=repositories)s中找到
+👨‍💻我的所有项目都可以在[存储库](https://github.com/YangVince?tab=repositories)中找到<br>
 
 <!-- ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/)
